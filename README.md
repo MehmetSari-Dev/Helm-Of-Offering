@@ -55,6 +55,17 @@ Korebe, a popular Turkish version of blind man’s buff. Which has one person bl
 
 - The staff is equipped with a flashlight; this flashlight can disable the ultrasonic sensor for 3 seconds. This window of opportunity allows the second player to escape the reach of the marked.
 
+<h2>Tools Used:</h2>
+
+- Arduino Uno R4 Wifi [2]
+- Gyroscope
+- LDR
+- LEDs
+- Flashlight
+- Ultrasonic sensor
+- Buzzers
+- Vibrators
+
 
 <h2>Contribution:</h2>
 
